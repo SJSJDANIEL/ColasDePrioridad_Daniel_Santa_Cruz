@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\bin\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.exe
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\bin\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.deps.json
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\bin\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.runtimeconfig.json
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\bin\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.dll
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\bin\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.pdb
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.AssemblyInfo.cs
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.dll
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\refint\ColasDePrioridad_Daniel_Santa Cruz.dll
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.pdb
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDePrioridad_Daniel_Santa Cruz.genruntimeconfig.cache
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ref\ColasDePrioridad_Daniel_Santa Cruz.dll
+C:\Users\USER\source\repos\ColasDePrioridad_Daniel_Santa Cruz\ColasDePrioridad_Daniel_Santa Cruz\obj\Debug\net10.0\ColasDeP.8EAEF561.Up2Date
